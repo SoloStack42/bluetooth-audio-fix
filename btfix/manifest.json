@@ -7,8 +7,9 @@
       "id": "562240334051016704"
     }
   ],
-  "main": "index.js",
+  "main": "PreventHandsfreeMode.js",
   "vendetta": {
     "icon": "speaker"
   }
 }
+
