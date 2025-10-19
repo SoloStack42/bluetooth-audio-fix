@@ -1,16 +1,11 @@
 {
-  "name": "Bt audio fix",
-  "description": "Fixes handsfree audio",
+  "name": "Addon List",
+  "description": "Adds commands for showing off your plugin and theme list.",
   "authors": [
     {
-      "name": "Panda",
-      "id": "629368283354628119"
+      "name": "Kitomanari",
+      "id": "437154602626973697"
     }
   ],
-  "main": "./index.js",
-  "vendetta": {
-    "icon": "icon-call"
-  }
-
+  "main": "./index.ts"
 }
-
