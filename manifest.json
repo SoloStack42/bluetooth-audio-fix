@@ -1,14 +1,14 @@
 {
-  "name": "Handsfree Mode Preventer",
-  "description": "Prevents Discord from enabling handsfree mode while in a call on iOS",
-  "authors": [
-    {
-      "name": "pandajesus",
-      "id": "562240334051016704"
+    "name": "Bt Audio Fix",
+    "description": "Prevents Discord from enabling handsfree mode while in a call on iOS",
+    "authors": [
+        {
+            "name": "pandajesus",
+            "id": "562240334051016704"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
     }
-  ],
-  "main": "src/index.js",
-  "vendetta": {
-    "icon": "speaker"
-  }
 }
