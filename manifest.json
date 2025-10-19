@@ -3,11 +3,11 @@
   "description": "Prevents Discord from enabling handsfree mode while in a call on iOS",
   "authors": [
     {
-      "name": "Your Name",
-      "id": "your-discord-id"
+      "name": "pandajesus",
+      "id": "562240334051016704"
     }
   ],
-  "main": "PreventHandsfreeMode.js",
+  "main": "index.js",
   "vendetta": {
     "icon": "speaker"
   }
