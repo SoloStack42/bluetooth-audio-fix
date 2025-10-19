@@ -1,19 +1,14 @@
 {
-  "name": "Bluetooth Audio Fix",
-  "description": "Prevents Discord from enabling handsfree mode while in a call",
+  "name": "Handsfree Mode Preventer",
+  "description": "Prevents Discord from enabling handsfree mode while in a call on iOS",
   "authors": [
     {
-      "name": "Narwhal",
-      "id": "455429792871874581"
-    },
-    {
-      "name": "redstonekasi",
-      "id": "265064055490871297"
+      "name": "Your Name",
+      "id": "your-discord-id"
     }
   ],
-  "main": "index.js",
+  "main": "PreventHandsfreeMode.js",
   "vendetta": {
     "icon": "speaker"
-  },
-  "hash": "f7abb32022ed55a80fe14b79fbb826e325eed9079c7dd70159f343f617f3086a"
+  }
 }
