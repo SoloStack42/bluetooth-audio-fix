@@ -4,11 +4,12 @@
   "authors": [
     {
       "name": "Panda",
-      "id": "629368283354628116"
+      "id": "629368283354628119"
     }
   ],
   "main": "./src/index.js",
   "vendetta": {
     "icon": "icon-call"
   }
+
 }
