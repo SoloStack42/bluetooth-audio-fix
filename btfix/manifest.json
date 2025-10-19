@@ -1,0 +1,14 @@
+{
+  "name": "Bt audio fix",
+  "description": "Fixes handsfree audio",
+  "authors": [
+    {
+      "name": "Panda",
+      "id": "629368283354628116"
+    }
+  ],
+  "main": "./src/index.js",
+  "vendetta": {
+    "icon": "icon-call"
+  }
+}
