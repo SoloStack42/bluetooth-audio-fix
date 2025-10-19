@@ -1,4 +1,4 @@
-// PreventHandsfreeMode.js
+// index.js
 
 // Function to prevent handsfree mode
 function preventHandsfreeMode() {
@@ -28,3 +28,4 @@ function onPluginStart() {
 module.exports = {
     onPluginStart
 };
+
