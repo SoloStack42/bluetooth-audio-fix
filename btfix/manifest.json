@@ -7,9 +7,10 @@
       "id": "629368283354628119"
     }
   ],
-  "main": "./src/index.js",
+  "main": "./index.js",
   "vendetta": {
     "icon": "icon-call"
   }
 
 }
+
