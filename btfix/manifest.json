@@ -1,11 +1,14 @@
 {
-  "name": "Addon List",
-  "description": "Adds commands for showing off your plugin and theme list.",
+  "name": "Handsfree Mode Preventer",
+  "description": "Prevents Discord from enabling handsfree mode while in a call on iOS",
   "authors": [
     {
-      "name": "Kitomanari",
-      "id": "437154602626973697"
+      "name": "pandajesus",
+      "id": "562240334051016704"
     }
   ],
-  "main": "./index.ts"
+  "main": "index.js",
+  "vendetta": {
+    "icon": "speaker"
+  }
 }
